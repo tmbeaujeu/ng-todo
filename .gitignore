@@ -1,14 +1,26 @@
-node_modules
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
 
-node_modules/angular/*
-!node_modules/angular/angular.js
+# Icon must end with two \r
+Icon
 
-node_modules/angular-route/*
-!node_modules/angular-route/angular-route.js
+# Thumbnails
+._*
 
-node_modules/angular-mocks/*
-node_modules/karma/*
-node_modules/.bin/*
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
 
-node_modules/todomvc-app-css/*
-!css/index.css
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
